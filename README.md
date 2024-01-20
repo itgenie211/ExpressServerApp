@@ -1,1 +1,1 @@
-This is a application that has a topic about hair.
+I attempted to create a small Node and Express server application that deals with learning about different hairstyles, cuts and colors. The application has the ability for users to upload posts of hairstyles.
